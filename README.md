@@ -1,6 +1,6 @@
 # **Guia Completo de Instalação e Configuração do Prometheus e Grafana**
 
-Este guia fornece instruções detalhadas para configurar uma stack de observabilidade usando Prometheus, Grafana, e diversos exporters e serviços relacionados. Vamos abordar cada componente e sua função na stack.
+Este guia fornece instruções detalhadas para configurar uma stack de observabilidade usando Prometheus, Grafana com PVC (Persistent Volume Claim), e diversos exporters e serviços relacionados. Vamos abordar cada componente e sua função na stack.
 
 ## **Pré-requisitos**
 
