@@ -77,3 +77,5 @@ helm uninstall prometheus
 ## **Conclusão**
 
 Este guia oferece uma visão geral de como configurar uma stack robusta de observabilidade com Prometheus e Grafana. Periodicamente, verifique atualizações para manter a stack segura e eficiente.
+
+Repo base: https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack
